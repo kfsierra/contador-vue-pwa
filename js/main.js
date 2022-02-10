@@ -1,7 +1,7 @@
 const app = Vue.createApp({
     data(){
         return {
-            title: "Contador App - Vue",
+            title: "Contador App - Vue de Kevin Sierra",
             count: 0,
             valorDeInput: 26,
         }
